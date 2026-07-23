@@ -248,8 +248,8 @@ View Source Code
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoque07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
+    src="./assets/tanvir-nibir-most-used-languages.png"
+    width="100%"
     alt="Tanvir Nibir Most Used Languages"
   />
 </p>
