@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./tanvir-nibir-banner.png" width="100%" alt="Tanvir Nibir GitHub Profile Banner" />
+  <img
+    src="./assets/tanvir-nibir-banner.png"
+    width="100%"
+    alt="Tanvir Nibir GitHub Profile Banner"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanvir Nibir</h1>
