@@ -236,18 +236,13 @@ Tech Stack: React • JavaScript • Framer Motion • Responsive UI
 
 View Source Code
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=hoque07&show_icons=true&theme=tokyonight&hide_border=true"
+    src="./assets/tanvir-nibir-github-statistics.png"
+    width="100%"
     alt="Tanvir Nibir GitHub Statistics"
-  />
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=hoque07&theme=tokyonight&hide_border=true"
-    alt="Tanvir Nibir GitHub Contribution Streak"
   />
 </p>
 
