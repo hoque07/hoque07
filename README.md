@@ -74,31 +74,7 @@ Quality: Debugging, browser testing, responsive testing, documentation, maintena
 
 End-to-End Workflow
 
-Idea
-  ↓
-Requirements
-  ↓
-Architecture
-  ↓
-UI/UX Design
-  ↓
-Implementation
-  ↓
-Local Setup
-  ↓
-Browser Testing
-  ↓
-Debugging
-  ↓
-Git Commit & Push
-  ↓
-Deployment
-  ↓
-Live Verification
-  ↓
-Documentation
-  ↓
-Version Updates
+Idea↓Requirements↓Architecture↓UI/UX Design↓Implementation↓Local Setup↓Browser Testing↓Debugging↓Git Commit & Push↓Deployment↓Live Verification↓Documentation↓Version Updates
 
 💻 Tech Stack
 
@@ -236,7 +212,7 @@ Tech Stack: React • JavaScript • Framer Motion • Responsive UI
 
 View Source Code
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <p align="center">
   <img
@@ -246,12 +222,16 @@ View Source Code
   />
 </p>
 
+🧑‍💻 Most Used Languages
+
 <p align="center">
-  <img
-    src="./assets/tanvir-nibir-most-used-languages.png"
-    width="100%"
-    alt="Tanvir Nibir Most Used Languages"
-  />
+  <a href="https://github.com/hoque07">
+    <img
+      src="https://raw.githubusercontent.com/hoque07/hoque07/main/assets/tanvir-nibir-most-used-languages.png"
+      width="100%"
+      alt="Tanvir Nibir Most Used Languages"
+    />
+  </a>
 </p>
 
 🔥 Contribution Streak
